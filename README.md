@@ -1,1 +1,2 @@
-# GMCA_Connectjgjh
+# GMCA_Connect
+A website for Helping Faculties and Students Collaborate
